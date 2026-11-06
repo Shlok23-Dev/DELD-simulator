@@ -1,11 +1,10 @@
 # DELD Lab Practice Simulator
 
-A modern, interactive browser-based **Digital Electronics and Logic Design (DELD) Lab Practice Simulator** tailored for S.Y. B.Tech Information Technology students (Course Code: **2308207**, 2023 Pattern, Semester III, K.K. Wagh Institute of Engineering Education and Research).
+A modern, interactive browser-based **Digital Electronics and Logic Design (DELD) Lab Practice Simulator** 
 
 ## Features
 
-- **Official Syllabus Practicals (1 to 10):**
-  - **A. Combinational Logic Design (Practicals 1–5):**
+  - **A. Combinational Logic Design :**
     - Practical 1: 4-Bit Code Converter (Binary ↔ Gray, Excess-3 ↔ BCD)
     - Practical 2: 4-Bit BCD Adder using IC 7483
     - Practical 3: Multiplexer IC 74153 (Full Adder & 3-Variable Cascade Logic)
